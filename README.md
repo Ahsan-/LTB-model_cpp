@@ -13,7 +13,7 @@ On linux do the following:
 
   * compile the Makefile with the make command
 
-### Defacts and known issues
+### Defects and known issues
   * compiling with OpenMP for parallel programing crashes (while performing MCMC) on some systems.
   * error and exception handling needs to be implemented to conform to c++ standard
 
